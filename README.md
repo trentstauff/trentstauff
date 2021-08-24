@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Trent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trentstauff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+![profile count](https://komarev.com/ghpvc/?username=trentstauffer&color=red)&nbsp;
