@@ -7,7 +7,6 @@ I love being able to express my creativity through the code I write, and even mo
 That's why I can't stop learning- if there's an idea in my head, I'll do whatever it takes to bring it to fruition, even if that means learning a new language or framework. </br>
 
 These days, I am super passionate about applying code to finance, autonomous driving, and social media applications, to name a few! </br></br>
-
 ---
 
 ### Quick Facts
