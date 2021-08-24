@@ -1,11 +1,12 @@
-### hey there 👋
+### Hey there, nice to meet you! 👋
 
-## i'm a software developer with a passion for creation.
+#### I'm Trent, a software developer with a passion for creation.
 
-i love finding solutions for unorthodox problems and thinking outside the box!
-whether this means starting a new project, contributing to open source, or participating in a wide variety of hackathons, my passion for continuous learning shines above all else.
+When I first found out about coding- I knew it was for me. 
+I love being able to express my creativity through the code I write, and even more, finding solutions to unorthodoxed problems!
+That's why I can't stop learning- if there's an idea in my head, I'll do whatever it takes to bring it to fruition, even if that means learning a new language or framework.
 
-feel free to connect with me on linkedin below to talk about finance, video games, computer engineering, or anything else that crosses your mind!
+These days, I am super passionate about applying code to finance, autonomous driving, and social media applications, to name a few!
 
 [![Trent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trentstauff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) <br/>
 
