@@ -12,8 +12,8 @@ These days, I am super passionate about applying code to finance, autonomous dri
 ### Quick Facts
 
 * I enjoy all types of development, and love trying new things. From fullstack, to low-latency concurrent C++ work, to Python algorithmic trading bots, and even mobile dev, I've done it!
-* I'm studying Computer Engineering @ the University of Waterloo (expected 2024), currently in my 2B term.
-* I've interned twice at BlackBerry 🔒 and am currently wrapping up my term at TD Securities 💸, both as a Software Engineering Intern.
+* I'm studying **Computer Engineering @ the University of Waterloo** (expected 2024), currently in my 2B term.
+* I've interned twice at **BlackBerry** 🔒 and am currently wrapping up my term at **TD Securitie**s 💸, both as a **Software Engineering Intern.**
 * I love playing and watching sports, such as football, hockey, spikeball, and even foosball (I'd say I'm dangerously good at foosball, let's 1v1 👀?)
 * I have a chocolate lab Harley, and absolutely love animals!
 
