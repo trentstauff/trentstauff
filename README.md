@@ -1,3 +1,9 @@
+
+
+![666-6663236_blue-header-png-6-png-image-blue](https://user-images.githubusercontent.com/53923200/130541590-74c86660-a624-4593-af2d-d71cedd59d88.png)
+
+![pngfind com-blue-banner-png-101081](https://user-images.githubusercontent.com/53923200/130541610-096f7aec-c797-41fa-a7c9-edf7db3e4345.png)
+
 ## Hey there, nice to meet you! 👋
 ---
 ### I'm Trent (he/him), a software developer with a passion for creation.
@@ -29,3 +35,4 @@ I'd love to hear more about yourself! If you'd like to talk opportunities, or ev
 
 ![](https://visitor-badge.glitch.me/badge?page_id=trentstauff)
 
+![Uploading pngfind.com-blue-banner-png-101081.png…]()
