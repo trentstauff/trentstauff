@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/trentstauffer/">
   <img align="left" alt="Trent's LinkedIn" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
+</br>
 ### I'm Trent (he/him), a software developer with a passion for creation.
 
 When I first started coding- I knew it was for me. 
