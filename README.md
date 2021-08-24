@@ -1,6 +1,6 @@
-### Hey there, nice to meet you! 👋
+## Hey there, nice to meet you! 👋
 
-#### I'm Trent, a software developer with a passion for creation.
+### I'm Trent, a software developer with a passion for creation.
 
 When I first found out about coding- I knew it was for me. 
 I love being able to express my creativity through the code I write, and even more, finding solutions to unorthodoxed problems!
