@@ -11,6 +11,7 @@ That's why I can't stop learning- if there's an idea in my head, I'll do whateve
 ### Quick Facts
 
 * 👨‍💻 I enjoy all types of development, and love trying new things. From fullstack, to low-latency concurrent C++ work, to Python algorithmic trading bots, and even mobile dev, I've done it!
+* 💡 My coding endevours have revolved around finance, cyber security, social media, game development, and much more (which you can see on my resume 😉)
 * 📚 I'm studying **Computer Engineering @ the University of Waterloo** (expected 2024), currently in my 2B term.
 * ⚙️ I've interned twice at **BlackBerry** 🔒 and am currently wrapping up my term at **TD Securitie**s 💸, both as a **Software Engineering Intern.**
 * 🏈 I love playing and watching sports, such as football, hockey, spikeball, and even foosball (I'd say I'm dangerously good at foosball, let's 1v1 👀?)
