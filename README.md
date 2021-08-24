@@ -1,5 +1,8 @@
 ## Hey there, nice to meet you! 👋
 ---
+<a href="https://www.linkedin.com/in/trentstauffer/">
+  <img align="left" alt="Trent's LinkedIn" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
 ### I'm Trent (he/him), a software developer with a passion for creation.
 
 When I first started coding- I knew it was for me. 
@@ -22,9 +25,6 @@ I'd love to hear more about yourself! If you'd like to talk opportunities, or ev
 ---
 [![Trent's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trentstauff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) <br/></br>
 ---
-<a href="https://www.linkedin.com/in/trentstauffer/">
-  <img align="left" alt="Trent's LinkedIn" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=trentstauff)
 
