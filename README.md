@@ -1,4 +1,4 @@
-![cropped-Header-PNG-Transparent-Image](https://user-images.githubusercontent.com/53923200/130541732-83a94c21-3b1c-4904-a1cf-d127dbebdbbf.png)
+![header](https://user-images.githubusercontent.com/53923200/130541780-e6039644-2915-4554-84e4-ea9165fc8ab8.png)
 
 ## Hey there, nice to meet you! 👋
 ---
