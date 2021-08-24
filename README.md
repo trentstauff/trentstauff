@@ -25,5 +25,6 @@ I'd love to hear more about yourself! If you'd like to talk opportunities, or ev
 <a href="https://www.linkedin.com/in/trentstauffer/">
   <img align="left" alt="Trent's LinkedIn" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=trentstauff)
 
