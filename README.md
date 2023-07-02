@@ -4,7 +4,7 @@
 ---
 ### I'm Trent (he/him), a software developer with a passion for creation.
 
-**Currently looking for Winter/Summer 2023 SWE internships. Feel free to contact me on my LinkedIn below.**
+**Currently looking for New Grad 2024 SWE positions. Feel free to contact me on my LinkedIn below.**
 
 When I first started coding- I knew it was for me. 
 I love being able to express my creativity through the code I write and love to find awesome solutions to unique problems! </br></br>
@@ -16,12 +16,12 @@ That's why I can't stop learning- if there's an idea in my head, I'll do whateve
 
 * 👨‍💻 I enjoy all types of development, and love trying new things. From fullstack, to low-latency concurrent C++ work, to Python algorithmic trading bots, and even mobile dev, I've done it!
 * 💡 My coding endevours have revolved around finance, cyber security, social media, game development, and much more (which you can see on my resume 😉)
-* 📚 I'm studying **Computer Engineering @ the University of Waterloo** (expected 2024), currently in my 3B term.
-* ⚙️ I've interned twice at **BlackBerry** 🔒, **TD Securities** 💸, and **NVIDIA** 👨🏻‍💻 all as a **Software Engineering Intern.**
+* 📚 I'm studying **Computer Engineering @ the University of Waterloo** (expected 2024), currently working for **IMC Trading** as an intern on their Delta One execultion team writing fast C++ code.
+* ⚙️ I've interned twice at **BlackBerry** 🔒, **TD Securities** 💸, **NVIDIA** 👨🏻‍💻, and **Apple** 🍎 all as a **Software Engineering Intern.**
 * 🏈 I love playing and watching sports, such as football, hockey, spikeball, and even foosball (I'd say I'm dangerously good at foosball, let's 1v1 👀?)
 * 🐕 I have a chocolate lab Harley, and absolutely love animals!
 
-I'd love to hear more about yourself! If you'd like to talk opportunities, or even just want to chat, feel free to connect with me on my LinkedIn below!
+I'd love to connect! If you'd like to talk opportunities, or even just want to chat about something you find interesting, feel free to connect with me on my LinkedIn below!
 ---
 ### Cheers!
 ---
